@@ -1,0 +1,11 @@
+row.names,pinkfloyd,thebeatles,queen,oasis,radiohead,greenday,thestrokes,linkinpark,foofighters,coldplay,etiqueta
+1,no,si,no,si,si,si,no,no,no,si,0
+2,no,si,si,si,no,no,no,no,no,si,0
+3,no,no,no,no,si,si,si,no,no,si,0
+4,no,no,no,no,si,no,no,si,si,si,0
+5,no,no,no,no,no,no,no,no,no,si,0
+6,si,no,no,no,no,no,no,no,si,no,1
+7,si,si,si,no,si,no,no,no,no,no,1
+8,no,si,si,no,no,no,no,no,no,no,1
+9,si,si,si,no,si,no,no,no,no,no,1
+10,si,no,no,no,si,no,no,no,no,no,1
